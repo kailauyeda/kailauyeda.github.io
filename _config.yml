@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Kaila Uyeda / Site Title"
+title                    : "Kaila Uyeda"
 title_separator          : "-"
 name                     : &name "Kaila Uyeda"
 description              : &description "Kaila Uyeda academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Kaila Uyeda"
   pronouns         : "she/her" # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Antarctic Bottom Water, Ocean Modelling, Physical & Numerical Mixing"
   location         : "Irvine, CA"
   employer         : "University of California, Irvine"
   uri              : # URL
