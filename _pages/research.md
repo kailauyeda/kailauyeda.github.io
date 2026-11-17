@@ -7,7 +7,7 @@ author_profile: true
 
 Previous Research
 ======
-### Impact of vertical diffusivity on large-scale circulation
+**Equatorial Heat Transport**
 
 <br/><img src='/images/A&M_heat_transport.png'>
 
